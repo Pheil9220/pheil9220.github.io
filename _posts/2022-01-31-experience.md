@@ -16,5 +16,5 @@ During my time at Coinflip I upheld high standards of customer services by respo
 <h2>Ruffalo Noel Levitz, Oxford OH</h2>
 <h4>Student Caller from October 2019 to April 2020</h4>
 As student callers we took part in scripted sales calls to alumni in order to relay current events going on with the university as well as to solicit donations. 
-After these calls we were expected to record, maintain and update customer information in our database.
-If an alumni did wish to make a donation, it was our to process it. 
+After these calls we were recorded, maintained and updated customer information in our database.
+If an alumni did wish to make a donation, it was our job to process it, handling payment information.
