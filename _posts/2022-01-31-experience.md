@@ -2,9 +2,8 @@
 layout: post
 title: Experience
 subtitle: What have I gotten done so far?
-gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [experience]
 comments: true
 ---
 Coinflip ATMs, Chicago IL
