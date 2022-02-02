@@ -97,15 +97,15 @@ post_search: true
 
 # --- Colours / background image --- #
 
-# Personalize the colours in your website. Colour values can be any valid CSS colour #F8F8F6, #6B9B8A, #000000
-navbar-col: "#EAEAEA"
+# Personalize the colours in your website. Colour values can be any valid CSS colour  #96D5D1 (light blue),  #67B983 (olive green), ##ffffe7 (light yellow)
+navbar-col: "#96D5D1"
 navbar-text-col: "#6B9B8A"
 navbar-border-col: "#DDDDDD"
-page-col: "#F8F8F6"
+page-col: "#ffffe7"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#96D5D1"
 footer-text-col: "#6B9B8A"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
