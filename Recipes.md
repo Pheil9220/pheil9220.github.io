@@ -1,6 +1,8 @@
 ---
-layout: page
-title: Recipe Blog
-subtitle: Some of my favorite recipes
+title: Recipes
 ---
 
+Hello!
+=====
+
+**This is the recipes page for my website**
