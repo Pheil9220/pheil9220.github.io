@@ -7,6 +7,7 @@ subtitle: Why you might want to hire me!
 My name is Patrick Heil. I have the following qualities:
 
 - I rock a great mustache
+- I run a [reciple blog](patrickheil.me/recipes.md)
 - I'm extremely loyal to my employer
 
 What else do you need?
