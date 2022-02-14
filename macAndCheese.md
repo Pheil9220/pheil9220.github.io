@@ -5,10 +5,10 @@ subtitle: Takes about 30 minutes, serves 2 to 3
 ---
 
 Ingredients:
--1 block (pound) of mild cheddar
--1/2 pound of gruyere  (Try to avoid aged gruyere, or our sauce will get all oily)*Note below*
--1/2 can of evaporated milk (Not sweetened milk; they look similar but are not the same)
--1 bag of macaroni noodles; I'm not sure if it's really necessary but i like to get the good kind for this recipe
+- 1 block (pound) of mild cheddar
+- 1/2 pound of gruyere  (Try to avoid aged gruyere, or our sauce will get all oily) *More on this below*
+- 1/2 can of evaporated milk (Not sweetened milk; they look similar but are not the same)
+- 1 bag of macaroni noodles; I'm not sure if it's really necessary but i like to get the good kind for this recipe
 
 *Note* Aged cheeses have much less moisture than normal cheese; as a result using aged cheeses makes our sauce more oily, which isn't what we want. If you can only find aged gruyere you can still use it; just try to add it at the very end to preserve as much of it's moisture as possible.
 
